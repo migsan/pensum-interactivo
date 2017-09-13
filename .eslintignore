@@ -1,0 +1,9 @@
+build/*.js
+config/*.js
+
+# Verisoned elements
+node_modules
+dist
+
+# Log files
+npm-debug.log
